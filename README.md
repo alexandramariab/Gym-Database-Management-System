@@ -20,7 +20,6 @@ A full technical report (in Romanian) documents every design decision. See [`doc
 
 The gym is divided into **zones** (Fitness, Cardio, Pilates). Clients hold **subscriptions** (Standard, Gold, Diamond), and each subscription type grants access to one or more zones. Clients can also **book individual sessions** with personal trainers, and buy products or subscriptions, which produces a fiscal receipt. Technicians log **maintenance** on the equipment in each zone.
 
-![Entity-Relationship Diagram](docs/er-diagram.png)
 
 ### Key design points
 
